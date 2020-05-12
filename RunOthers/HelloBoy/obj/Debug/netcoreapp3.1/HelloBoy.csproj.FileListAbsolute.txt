@@ -1,0 +1,13 @@
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\bin\Debug\netcoreapp3.1\HelloBoy.exe
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\bin\Debug\netcoreapp3.1\HelloBoy.deps.json
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\bin\Debug\netcoreapp3.1\HelloBoy.runtimeconfig.json
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\bin\Debug\netcoreapp3.1\HelloBoy.runtimeconfig.dev.json
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\bin\Debug\netcoreapp3.1\HelloBoy.dll
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\bin\Debug\netcoreapp3.1\HelloBoy.pdb
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\obj\Debug\netcoreapp3.1\HelloBoy.csprojAssemblyReference.cache
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\obj\Debug\netcoreapp3.1\HelloBoy.csproj.CoreCompileInputs.cache
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\obj\Debug\netcoreapp3.1\HelloBoy.AssemblyInfoInputs.cache
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\obj\Debug\netcoreapp3.1\HelloBoy.AssemblyInfo.cs
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\obj\Debug\netcoreapp3.1\HelloBoy.dll
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\obj\Debug\netcoreapp3.1\HelloBoy.pdb
+C:\Users\QYL\source\repos\RunOthers\HelloBoy\obj\Debug\netcoreapp3.1\HelloBoy.genruntimeconfig.cache
