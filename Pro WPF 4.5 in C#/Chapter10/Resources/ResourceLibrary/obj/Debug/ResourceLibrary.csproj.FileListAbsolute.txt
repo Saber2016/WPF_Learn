@@ -1,0 +1,13 @@
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\bin\Debug\ResourceLibrary.dll
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\bin\Debug\ResourceLibrary.pdb
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.csprojAssemblyReference.cache
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary_MarkupCompile.cache
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary_MarkupCompile.lref
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\Themes\generic.baml
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.g.resources
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.Properties.Resources.resources
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.csproj.GenerateResource.cache
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.csproj.CoreCompileInputs.cache
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.dll
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.pdb

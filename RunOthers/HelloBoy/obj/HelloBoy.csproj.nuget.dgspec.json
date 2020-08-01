@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\QYL\\source\\repos\\RunOthers\\HelloBoy\\HelloBoy.csproj": {}
+    "E:\\gitLab\\WPF\\RunOthers\\HelloBoy\\HelloBoy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\QYL\\source\\repos\\RunOthers\\HelloBoy\\HelloBoy.csproj": {
+    "E:\\gitLab\\WPF\\RunOthers\\HelloBoy\\HelloBoy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QYL\\source\\repos\\RunOthers\\HelloBoy\\HelloBoy.csproj",
+        "projectUniqueName": "E:\\gitLab\\WPF\\RunOthers\\HelloBoy\\HelloBoy.csproj",
         "projectName": "HelloBoy",
-        "projectPath": "C:\\Users\\QYL\\source\\repos\\RunOthers\\HelloBoy\\HelloBoy.csproj",
+        "projectPath": "E:\\gitLab\\WPF\\RunOthers\\HelloBoy\\HelloBoy.csproj",
         "packagesPath": "C:\\Users\\QYL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QYL\\source\\repos\\RunOthers\\HelloBoy\\obj\\",
+        "outputPath": "E:\\gitLab\\WPF\\RunOthers\\HelloBoy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

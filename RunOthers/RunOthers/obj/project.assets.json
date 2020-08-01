@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QYL\\source\\repos\\RunOthers\\RunOthers\\RunOthers.csproj",
+      "projectUniqueName": "E:\\gitLab\\WPF\\RunOthers\\RunOthers\\RunOthers.csproj",
       "projectName": "RunOthers",
-      "projectPath": "C:\\Users\\QYL\\source\\repos\\RunOthers\\RunOthers\\RunOthers.csproj",
+      "projectPath": "E:\\gitLab\\WPF\\RunOthers\\RunOthers\\RunOthers.csproj",
       "packagesPath": "C:\\Users\\QYL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QYL\\source\\repos\\RunOthers\\RunOthers\\obj\\",
+      "outputPath": "E:\\gitLab\\WPF\\RunOthers\\RunOthers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

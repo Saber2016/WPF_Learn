@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\QYL\source\repos\RunOthers\RunOthers\obj\Debug\netcoreapp3.1\
+E:\gitLab\WPF\RunOthers\RunOthers\obj\Debug\netcoreapp3.1\
 RunOthers
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\QYL\source\repos\RunOthers\RunOthers\App.xaml
+E:\gitLab\WPF\RunOthers\RunOthers\App.xaml
 11151548125
 
 4-939836177
 1921654412462
 MainWindow.xaml;
 
-True
+False
 

@@ -1,1 +1,26 @@
 D:\Code\Pro WPF\Chapter10\Resources\Resources\bin\Debug\Resources.exe.config
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\Resources.exe.config
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\Resources.exe
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\Resources.pdb
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\ResourceLibrary.dll
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\ResourceLibrary.pdb
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\ResourceFromLibrary.baml
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\TwoResources.baml
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\DynamicResource.baml
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Menu.baml
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\WindowResource.baml
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\ResourceFromLibrary.g.cs
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\TwoResources.g.cs
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\DynamicResource.g.cs
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Menu.g.cs
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\WindowResource.g.cs
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\App.g.cs
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources_MarkupCompile.cache
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.g.resources
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.Properties.Resources.resources
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.csproj.CopyComplete
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.exe
+E:\gitLab\WPF\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.pdb
